@@ -1,8 +1,16 @@
-# Código da Estrada - Quiz App
+# Quiz Código da Estrada
 
-Esta aplicação Flutter permite realizar um quiz de perguntas sobre o Código da Estrada.
-Funcionalidades:
-- Login e registo com Firebase Authentication
-- Armazenamento de pontuações no Firestore
-- Interface intuitiva
-- Validação de campos
+Um quiz mobile interativo feito em **Flutter**, focado no Código da Estrada, com backend Firebase (Auth + Firestore). Ideal para praticar conhecimentos e desenvolver competências em desenvolvimento mobile moderno com integração em tempo real.
+
+---
+
+## Tecnologias
+
+- **Flutter** (UI cross-platform)
+- **Dart** (linguagem principal)
+- **Firebase**:
+  - Authentication (login)
+  - Firestore (armazenamento de perguntas)
+- **VSCode** (ambiente de desenvolvimento)
+
+---
